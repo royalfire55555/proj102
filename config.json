@@ -1,0 +1,37 @@
+{
+    "documents": [
+        ".pdf",
+        ".txt",
+        ".ppt",
+        ".pptx",
+        ".docx",
+        ".dotm",
+        ".docb",
+        ".xls",
+        ".xlt",
+        ".odp",
+        ".key"
+    ],
+    "images_videos_audio": [
+        ".jpeg",
+        ".jpg",
+        ".gif",
+        ".mov",
+        ".mp3",
+        ".svg",
+        ".webp",
+        ".mp4",
+        ".png",
+        ".tiff",
+        ".tif",
+        ".avi",
+        ".flv",
+        ".m4a",
+        ".wav"
+    ],
+    "python": [".py"],
+    "javascript_typescript": [".js", ".jsx", ".ts", ".tsx"],
+    "executable_cmd": [".bat", ".exe", ".bat", ".cmd", ".ps1"],
+    "html": [".html", ".htm"],
+    "noExt": [""]
+}
